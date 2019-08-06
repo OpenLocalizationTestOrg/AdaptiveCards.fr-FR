@@ -1,0 +1,7 @@
+- name: Docs
+  href: /
+  homepage: /
+  items:
+    - name: Cartes adaptatives
+      tocHref: /adaptive-cards/
+      topicHref: /adaptive-cards/index
