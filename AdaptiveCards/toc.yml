@@ -1,0 +1,50 @@
+- name: Présentation
+  href: index.md
+- name: Prise en main
+  items:
+    - name: Développeurs de robots
+      href: getting-started/bots.md
+    - name: Développeurs Windows
+      href: getting-started/windows.md
+    - name: Développeurs Outlook
+      href: getting-started/outlook.md
+- name: Création de cartes
+  items:
+    - name: Prise en main
+      href: authoring-cards/getting-started.md
+    - name: Schéma de la carte
+      href: 'https://adaptivecards.io/explorer'
+    - name: Vocale
+      href: authoring-cards/speech.md
+    - name: Fonctionnalités de texte
+      href: authoring-cards/text-features.md
+- name: Cartes de rendu
+  items:
+    - name: Prise en main
+      href: rendering-cards/getting-started.md
+    - name: Actions
+      href: rendering-cards/actions.md
+    - name: Configuration de l’hôte
+      href: rendering-cards/host-config.md
+    - name: Extensibilité
+      href: rendering-cards/extensibility.md
+    - name: État du convertisseur
+      href: rendering-cards/renderer-status.md
+    - name: Implémenter un convertisseur
+      href: rendering-cards/implement-a-renderer.md
+- name: 'Kit SDK '
+  items:
+    - name: Création de cartes
+      href: sdk/authoring-cards/toc.yml
+    - name: Cartes de rendu
+      href: sdk/rendering-cards/toc.yml
+- name: Ressources
+  items:
+    - name: Conforme
+      href: resources/principles.md
+    - name: Partenaires
+      href: resources/partners.md
+    - name: Outils
+      href: resources/tools.md
+    - name: Présentation
+      href: resources/future.md
